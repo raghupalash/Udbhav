@@ -44,7 +44,7 @@ span .form-control
 .largeInput
 {
     /* controls width of large input fields */
-    width: 29.1rem;
+    width: 43.6rem;
 }
 
 .headingBottom
@@ -134,7 +134,7 @@ footer > div:nth-of-type(2)
 
 .intro
 {
-    padding-top: 18rem;
+    padding-top: 25rem;
     padding-bottom: 2rem;
     font-weight: 700;
 }
@@ -180,7 +180,7 @@ footer > div:nth-of-type(2)
 
 .intro-header
 {
-    padding-top: 14rem;
+    padding-top: 18rem;
     padding-bottom: 2rem;
     font-size: 4rem;
     font-weight: 700;
@@ -189,8 +189,9 @@ footer > div:nth-of-type(2)
 .intro-bottom
 {
     margin-bottom: 0;
-    padding-bottom: 3rem;
+    padding-bottom: 7rem;
     font-size: 2rem;
+    font-weight: 400;
 }
 
 .about-intro
@@ -237,7 +238,7 @@ footer > div:nth-of-type(2)
     }
     .largeInput
     {
-        width: 14rem;
+        width: 21.5rem;
     }
     .form-control
     {
@@ -247,11 +248,7 @@ footer > div:nth-of-type(2)
     .image-side-text
     {
         margin-left: 0px;
-    }
-    textarea
-    {
-        width: 14rem !important;
-    }
+    }   
     .headingBottom
     {
         margin-bottom: 2rem;
